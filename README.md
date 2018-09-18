@@ -1,6 +1,6 @@
 基于ThinkPHP5的项目骨架
 
-###使用：
+##使用：
 * 按照Thinkphp官方文档下载ThinkPHP5框架到本地；
 
 * 将application目录替换ThinkPHPH5框架的application目录及其内容即可。
